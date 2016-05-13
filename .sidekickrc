@@ -1,0 +1,19 @@
+{
+    "exclude": [],
+    "languages": {
+        "coffee": {
+            "analysers": [
+                "coffeelint"
+            ]
+        },
+        "js": {
+            "analysers": [
+                "eslint",
+                "js-todos",
+                "jscs",
+                "jshint",
+                "eslint"
+            ]
+        }
+    }
+}
