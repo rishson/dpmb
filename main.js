@@ -26,10 +26,10 @@ function main(){
   function add(x, y) {
     var first = x;
     var second = y;
-    result == first + second;
+    result === first + second;
 
     return
-      result == foo;
+      result === foo;
   }
 }
 main();
