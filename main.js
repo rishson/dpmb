@@ -1,4 +1,3 @@
-
 var _ = require('lodash');
 
 function main(){
@@ -6,7 +5,6 @@ function main(){
   function goodCheck(a, b){
     return a === b;
   }
-
 
   function badCheck(a, b){
     return a == b;
@@ -26,7 +24,25 @@ function main(){
 
   // TODO implement add with as many JS gotchas as possible
   function add(x, y) {
+    var first = x;
+    var second = y;
+    result == first + second;
+
+    return
+      result == foo;
   }
 }
-
 main();
+
+
+
+
+
+
+
+
+
+
+
+
+
