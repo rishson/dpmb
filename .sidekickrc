@@ -15,7 +15,11 @@
                 "failCiOnError": true
             }
         },
-        "coffee": {},
+        "coffee": {
+            "sidekick-coffeelint": {
+                "failCiOnError": false
+            }
+        },
         "ts": {
             "sidekick-tslint": {
                 "failCiOnError": true
