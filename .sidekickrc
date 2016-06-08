@@ -3,44 +3,36 @@
     "languages": {
         "js": {
             "sidekick-jshint": {
-                "failCiOnError": true,
-                "version": "1.0.1"
+                "failCiOnError": true
             },
             "sidekick-js-todos": {
-                "failCiOnError": false,
-                "version": "1.1.0"
+                "failCiOnError": false
             },
             "sidekick-jscs": {
-                "failCiOnError": false,
-                "version": "1.1.0"
+                "failCiOnError": false
             },
             "sidekick-eslint": {
-                "failCiOnError": true,
-                "version": "1.1.3"
+                "failCiOnError": true
             }
         },
         "coffee": {
             "sidekick-coffeelint": {
-                "failCiOnError": true,
-                "version": "1.1.0"
+                "failCiOnError": true
             }
         },
         "ts": {
             "sidekick-tslint": {
-                "failCiOnError": true,
-                "version": "1.0.4"
+                "failCiOnError": true
             }
         },
         "json": {
             "sidekick-david": {
-                "failCiOnError": false,
-                "version": "1.1.1"
+                "failCiOnError": false
             }
         },
         "all": {
             "sidekick-security": {
-                "failCiOnError": true,
-                "version": "1.0.5"
+                "failCiOnError": true
             }
         }
     }
