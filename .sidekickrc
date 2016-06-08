@@ -17,7 +17,7 @@
         },
         "coffee": {
             "sidekick-coffeelint": {
-                "failCiOnError": false
+                "failCiOnError": true
             }
         },
         "ts": {
