@@ -1,38 +1,32 @@
 {
     "exclude": [],
     "languages": {
+        "coffee": {
+            "sidekick-coffeelint": {
+                "failCiOnError": false
+            }
+        },
         "js": {
-            "sidekick-jshint": {
-                "failCiOnError": true
+            "sidekick-eslint": {
+                "failCiOnError": false
             },
             "sidekick-js-todos": {
                 "failCiOnError": false
-            },
-            "sidekick-jscs": {
-                "failCiOnError": false
-            },
-            "sidekick-eslint": {
-                "failCiOnError": true
-            }
-        },
-        "coffee": {
-            "sidekick-coffeelint": {
-                "failCiOnError": true
             }
         },
         "ts": {
             "sidekick-tslint": {
-                "failCiOnError": true
-            }
-        },
-        "json": {
-            "sidekick-david": {
                 "failCiOnError": false
             }
         },
         "all": {
             "sidekick-security": {
-                "failCiOnError": true
+                "failCiOnError": false
+            }
+        },
+        "json": {
+            "sidekick-david": {
+                "failCiOnError": false
             }
         }
     }
