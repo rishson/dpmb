@@ -12,6 +12,9 @@
             },
             "sidekick-js-todos": {
                 "failCiOnError": false
+            },
+            "sidekick-standard": {
+                "failCiOnError": false
             }
         },
         "ts": {
